@@ -1,0 +1,11 @@
+DB_HOST = localhost
+DB_USER = root
+DB_PASS =
+DB_NAME = appsalon2
+
+EMAIL_HOST = sandbox.smtp.mailtrap.io
+EMAIL_PORT = 465
+EMAIL_USER = 764da1aafdc4545dd
+EMAIL_PASS =  651fd746589b45454b5
+
+APP_URL = http://localhost:3000
