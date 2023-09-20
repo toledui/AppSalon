@@ -8,4 +8,4 @@ https://appsalonlatm.domcloud.io
 with the following credentials:
 
 usuario: correo@correo.com
-password: 123456
+password: password
